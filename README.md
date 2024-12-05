@@ -88,7 +88,7 @@
         <div class="products">
             <!-- Produto 1 -->
             <div class="product">
-                <img src=https://http2.mlstatic.com/D_NQ_NP_692368-MLB73104731839_112023-O.webp alt="Bicicleta">
+                <img src="bicicleta.jpg" alt="Bicicleta">
                 <h3>Bicicleta</h3>
                 <p>Preço: R$ 1.200,00</p>
             </div>
