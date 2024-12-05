@@ -1,6 +1,6 @@
 # compra-online-2
 
-<!DOCTYPE html>
+<!DOCTYPE  html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -138,7 +138,7 @@
     </main>
 
     <footer>
-        <p>Contato: (11) 98765-4321 | Email: contato@lojasdopedrao.com.br</p>
+        | Email: contato@lojasdopedrao.com.br</p>
         <p>&copy; 2024 Lojas do Pedrão. Todos os direitos reservados.</p>
     </footer>
 </body>
