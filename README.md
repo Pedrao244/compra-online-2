@@ -1,6 +1,6 @@
 # compra-online-2
 
-<!DOCTYPE  html>
+<inovações tecnologicas html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
